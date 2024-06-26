@@ -1,4 +1,4 @@
-##Some picture is added to the photo folder of this project
+## Some picture is added to the photo folder of this project
 
 
 ## You can run this project in neatbeans
